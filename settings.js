@@ -8,9 +8,9 @@ globale . simpleBotname  =  "MATADOR"  //⚠️ Utilisez uniquement un nom norma
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
 globale . botname  =  "king Matador" 
-global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
-global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-globale . packname  =  "M𝐴tador💫 вσᡶ 𝖻ꪗ ρỉƙꪖ"  // autocollant filigrane packname //
+globale . site webx = "https://github.com/Matadorichigo" // Website to be displayed //
+globale . botscript  = 'https://github.com/Matadorichigo/Anya-pika-MD-v2.git'  // Lien du script //
+globale . packname   =   "M𝐴tador💫 вσᡶ 𝖻ꪗ ρỉƙꪖ"   // autocollant filigrane packname //
 globale . auteur  =  "🥵3.0_MHD"  // auteur du filigrane autocollant //
 actiontitle = '࿙⚜M𝑨tador⚜࿚' // text who displays on the top of welcome and left message //
 global.headerText = "Matador by MHD" // text for header of menu //        
